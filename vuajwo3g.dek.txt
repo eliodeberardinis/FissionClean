@@ -1,0 +1,60 @@
+﻿Revert "Merge remote-tracking branch 'refs/remotes/origin/master' into Elio_AI_16_4_17"
+
+This reverts commit b2a212ed49228a615d1cabb17aa3ceebc2ccb93f, reversing
+changes made to 7b76f2d7eaef84e606c108df6ccacf63c155b08e.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch Elio_AI_16_4_17
+# Your branch is up-to-date with 'origin/Elio_AI_16_4_17'.
+#
+# Changes to be committed:
+#	modified:   Content/Blueprint/Crosshairs/crosshair1.uasset
+#	modified:   Content/Blueprint/Crosshairs/crosshair1_-_Copy.uasset
+#	deleted:    Content/Blueprint/HealthHUD.uasset
+#	new file:   Content/Elio_AI/1-BTs/BTDecorator_BlueprintBase_New.uasset
+#	new file:   Content/Elio_AI/1-BTs/Elio_AI_BT.uasset
+#	new file:   Content/Elio_AI/1-BTs/Elio_AI_BT2.uasset
+#	new file:   Content/Elio_AI/2-BlackBoards/Elio_BT_Blackboard.uasset
+#	new file:   Content/Elio_AI/3-Services/CanSeePlayerService.uasset
+#	new file:   Content/Elio_AI/3-Services/FindPlayerService.uasset
+#	new file:   Content/Elio_AI/3-Services/ServiceFocusOnActor.uasset
+#	new file:   Content/Elio_AI/4-Decorators/DecoratorCanSeePlayer.uasset
+#	new file:   Content/Elio_AI/4-Decorators/DecoratorIsFocused.uasset
+#	new file:   Content/Elio_AI/5-Tasks/TaskClearFocus.uasset
+#	new file:   Content/Elio_AI/5-Tasks/TaskGetRandomExit.uasset
+#	new file:   Content/Elio_AI/5-Tasks/TaskSetFocus.uasset
+#	new file:   Content/Elio_AI/BTDecorator_BlueprintBase_New.uasset
+#	new file:   Content/Elio_AI/BTService_BlueprintBase_New.uasset
+#	new file:   Content/Elio_AI/BTTask_BlueprintBase_New.uasset
+#	new file:   Content/Elio_AI/BT_ExitPoints.uasset
+#	new file:   Content/Elio_AI/Elio_AI_Controller.uasset
+#	new file:   Content/Elio_AI/Elio_Test_AnimBP.uasset
+#	new file:   Content/Elio_AI/Elio_Test_Character.uasset
+#	new file:   Content/Elio_AI/MinionTest.uasset
+#	new file:   Content/Elio_AI/NewBlueprint.uasset
+#	new file:   Content/NuclearCart/AI_Work/Actor_AI.uasset
+#	new file:   Content/NuclearCart/AI_Work/AgroCheck.uasset
+#	new file:   Content/NuclearCart/AI_Work/BTDecorator_BlueprintBase_New.uasset
+#	new file:   Content/NuclearCart/AI_Work/BTTask_BlueprintBase_New.uasset
+#	new file:   Content/NuclearCart/AI_Work/Behaviour_Tree.uasset
+#	new file:   Content/NuclearCart/AI_Work/Blackboard.uasset
+#	new file:   Content/NuclearCart/AI_Work/CloseToTarget.uasset
+#	new file:   Content/NuclearCart/AI_Work/QuickMoveTo.uasset
+#	new file:   Content/NuclearCart/AI_Work/TestAIChar.uasset
+#	deleted:    Content/NuclearCart/WaterPuddleTest.umap
+#	new file:   Content/NuclearCart/main_Javier.umap
+#	new file:   Content/NuclearCart/main_Javier_BuiltData.uasset
+#	modified:   Content/StarterContent/Architecture/Floor_400x400.uasset
+#	deleted:    Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+#	modified:   Content/ThirdPersonBP/Ghoul/ghoul_mesh.uasset
+#	deleted:    Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+#	modified:   Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+#	modified:   Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset
+#	modified:   Content/Weapons/WeaponMasterBlueprint.uasset
+#	modified:   Content/main.umap
+#	new file:   Content/main2.uasset
+#	new file:   Content/main_BuiltData.uasset
+#	new file:   Content/main_Javier.umap
+#
+
